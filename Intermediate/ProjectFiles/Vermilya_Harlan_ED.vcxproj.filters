@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Vermilya_Harlan_ED.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6849FA5C-4359-4F7B-BE41-7ADA0D51B9AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Vermilya_Harlan_ED.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Vermilya_Harlan_EDEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D39507F1-9AF1-41B7-A546-6B135358E392}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Vermilya_Harlan_ED">
+      <UniqueIdentifier>{994A7A47-E0CF-479E-99BD-9749DD748FD6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Vermilya_Harlan_ED\Vermilya_Harlan_ED.Build.cs">
+      <Filter>Source\Vermilya_Harlan_ED</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Vermilya_Harlan_ED.cpp">
+      <Filter>Source\Vermilya_Harlan_ED</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Vermilya_Harlan_ED.h">
+      <Filter>Source\Vermilya_Harlan_ED</Filter>
+    </ClInclude>
+    <Filter Include="Source\Vermilya_Harlan_ED\Private">
+      <UniqueIdentifier>{08601044-B86F-4B90-819E-D28CF7AEED84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Vermilya_Harlan_ED\Private\Actors">
+      <UniqueIdentifier>{DB80F359-1817-4659-A893-2EEBEB156561}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\Agent.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\AgentController.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\BaseCharacter.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\BasePlayer.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\HealthComponent.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\Projectile.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\Rifle.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Actors\Vermilya_Harlan_EDGameModeBase.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Actors</Filter>
+    </ClCompile>
+    <Filter Include="Source\Vermilya_Harlan_ED\Private\Both">
+      <UniqueIdentifier>{035B74F5-9C9E-48BD-930B-D3E9FBD37659}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Both\CharacterAnimation.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Both</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Both\GameHUD.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Both</Filter>
+    </ClCompile>
+    <Filter Include="Source\Vermilya_Harlan_ED\Private\Examples">
+      <UniqueIdentifier>{835E5387-E3EF-4015-8F78-57D066DB78B1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Examples\ExampleActorWithUserInterface.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Examples\ExampleDefultPawn.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Examples\ExampleFuction.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Examples\ExampleInterface.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Vermilya_Harlan_ED\Private\Examples\ExampleVar.cpp">
+      <Filter>Source\Vermilya_Harlan_ED\Private\Examples</Filter>
+    </ClCompile>
+    <Filter Include="Source\Vermilya_Harlan_ED\Public">
+      <UniqueIdentifier>{FE368FB1-4A3C-4CAC-A3A3-377D2C75EBE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Vermilya_Harlan_ED\Public\Actors">
+      <UniqueIdentifier>{0AA0378F-B1A6-4A1F-9950-B282A596E9D4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\Agent.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\AgentController.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\BaseCharacter.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\BasePlayer.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\HealthComponent.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\Projectile.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\Rifle.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Actors\Vermilya_Harlan_EDGameModeBase.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Actors</Filter>
+    </ClInclude>
+    <Filter Include="Source\Vermilya_Harlan_ED\Public\Both">
+      <UniqueIdentifier>{6BEA6211-013F-4DCB-B9C4-2C35269398EA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Both\CharacterAnimation.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Both</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Both\GameHUD.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Both</Filter>
+    </ClInclude>
+    <Filter Include="Source\Vermilya_Harlan_ED\Public\Examples">
+      <UniqueIdentifier>{BE1EB5E2-0982-4F9B-8045-1B99AE77A04D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Examples\ExampleActorWithUserInterface.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Examples\ExampleDefultPawn.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Examples\ExampleFuction.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Examples\ExampleInterface.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Vermilya_Harlan_ED\Public\Examples\ExampleVar.h">
+      <Filter>Source\Vermilya_Harlan_ED\Public\Examples</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

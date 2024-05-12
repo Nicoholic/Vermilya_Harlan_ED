@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Vermilya_Harlan_ED",
+			"Path": "C:\\Users\\harla\\OneDrive\\Documents\\Unreal Projects\\Vermilya_Harlan_ED\\Source\\Vermilya_Harlan_ED.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Vermilya_Harlan_EDEditor",
+			"Path": "C:\\Users\\harla\\OneDrive\\Documents\\Unreal Projects\\Vermilya_Harlan_ED\\Source\\Vermilya_Harlan_EDEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+C:\Users\harla\OneDrive\Documents\Unreal Projects\Vermilya_Harlan_ED\Intermediate\Build\Win64\UE4Editor\Development\Vermilya_Harlan_ED\Definitions.Vermilya_Harlan_ED.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

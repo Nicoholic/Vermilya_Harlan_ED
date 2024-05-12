@@ -1,0 +1,4 @@
+C:\Users\harla\OneDrive\Documents\Unreal Projects\Vermilya_Harlan_ED\Intermediate\Build\Win64\UE4Editor\Development\Vermilya_Harlan_ED\Definitions.Vermilya_Harlan_ED.h
+C:\Users\harla\OneDrive\Documents\Unreal Projects\Vermilya_Harlan_ED\Source\Vermilya_Harlan_ED\Public\Actors/Rifle.h
+C:\Users\harla\OneDrive\Documents\Unreal Projects\Vermilya_Harlan_ED\Intermediate\Build\Win64\UE4Editor\Inc\Vermilya_Harlan_ED\Rifle.generated.h
+C:\Users\harla\OneDrive\Documents\Unreal Projects\Vermilya_Harlan_ED\Source\Vermilya_Harlan_ED\Private\Actors\../../Vermilya_Harlan_ED.h
